@@ -1,0 +1,110 @@
+record_id,age_group,age,weight,gender,region,smoking_status,exercise_frequency,bmi,blood_pressure,diabetes,hypertension,cholesterol_level,glucose_level,visit_date
+5299861a-0d6c-49ca-8ca8-5f0e3ccfcd7f,18-25,23,97,Male,South,Former Smoker,Rarely,23.4,141.6,True,True,159.0,167.2,10/10/2024
+8b7e3d2f-1a5b-4c8d-9e2f-6a1b3c4d5e6f,26-35,31,78,Female,North,Non-Smoker,Daily,24.2,118.3,False,False,182.5,95.4,15/09/2024
+3c9f5e7a-2b4d-4f6a-8c1e-7d2f9a3b5c7d,36-45,42,85,Male,East,Smoker,Weekly,27.8,135.7,False,True,210.3,108.6,22/08/2024
+6d4e2f8b-3c5a-4d7b-9e1f-8c3d0a4b6e8f,46-60,52,72,Female,West,Non-Smoker,Rarely,26.4,142.8,True,True,195.7,145.2,05/07/2024
+1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d,60+,68,64,Male,North,Former Smoker,Weekly,22.9,151.2,False,True,178.3,112.4,18/11/2024
+f2e5d8c7-b6a5-4f3e-9d2c-1b8a7c6d5e4f,18-25,21,82,Female,South,Non-Smoker,Daily,26.1,115.4,False,False,165.8,89.7,30/09/2024
+a9b8c7d6-e5f4-3a2b-1c0d-9e8f7g6h5i4,26-35,29,93,Male,East,Smoker,Rarely,29.4,138.9,True,True,225.6,178.3,12/08/2024
+k4j3h2g1-f5e6-d7c8-b9a0-1n2m3l4k5j6,36-45,44,68,Female,West,Non-Smoker,Weekly,25.7,128.4,False,False,188.4,102.5,25/10/2024
+p7o6i5u4-y3t2-r1e5-w9q8-0z7x6c5v4b3,46-60,55,88,Male,South,Former Smoker,Rarely,31.2,146.7,True,True,242.1,156.8,14/07/2024
+n2m3l4k5-j6h7g8f9-d0s1a2p3o4i5u6,60+,72,71,Female,North,Non-Smoker,Daily,27.3,138.2,False,True,176.5,118.6,08/09/2024
+z9x8c7v6-b5n4m3a2-s1d2f3g4h5j6k7,18-25,24,95,Male,East,Smoker,Weekly,28.7,122.5,False,False,215.4,98.7,19/11/2024
+l0k9j8h7-g6f5d4s3-a2p1o0i9u8y7t6,26-35,33,67,Female,West,Non-Smoker,Rarely,22.8,119.6,False,False,168.2,91.3,03/08/2024
+r5e4w3q2-t1y6u7i8-o9p0a1s2d3f4g5,36-45,41,82,Male,South,Former Smoker,Daily,26.9,141.3,True,True,198.7,142.5,27/09/2024
+h6j5k4l3-z2x1c9v8-b7n6m5a4s3d2f1,46-60,58,79,Female,North,Non-Smoker,Weekly,28.4,152.8,True,True,235.6,168.4,16/10/2024
+g0f1e2d3-c4b5a6z7-x8c9v0b1n2m3l4,60+,71,84,Male,East,Smoker,Rarely,30.1,158.3,True,True,248.9,189.2,05/12/2024
+q1w2e3r4-t5y6u7i8-o9p0a1s2d3f4,18-25,22,63,Female,West,Non-Smoker,Daily,21.5,112.7,False,False,154.3,85.6,21/07/2024
+g5h6j7k8-l9z0x1c2-v3b4n5m6a7s8d9,26-35,35,91,Male,South,Former Smoker,Weekly,29.8,136.2,False,True,208.7,112.4,13/08/2024
+f4d3s2a1-p0o9i8u7-y6t5r4e3w2q1,36-45,48,76,Female,North,Non-Smoker,Rarely,25.3,129.5,False,False,179.3,96.8,24/09/2024
+z8x7c6v5-b4n3m2a1-s0d9f8g7h6j5,46-60,53,94,Male,East,Smoker,Daily,32.4,148.9,True,True,256.1,172.5,07/11/2024
+k4j3h2g1-f5e6d7c8-b9a0z1x2c3v4,60+,69,68,Female,West,Non-Smoker,Weekly,24.6,135.7,False,True,186.4,115.3,19/10/2024
+n5m6a7s8-d9f0g1h2-j3k4l5z6x7c8,18-25,19,71,Male,North,Non-Smoker,Rarely,22.3,118.4,False,False,162.8,92.5,02/08/2024
+v9b8n7m6-a5s4d3f2-g1h0j1k2l3z4,26-35,30,86,Female,South,Smoker,Daily,28.9,142.6,True,True,218.4,158.7,15/09/2024
+x1c2v3b4-n5m6a7s8-d9f0g1h2j3k4,36-45,47,79,Male,East,Former Smoker,Weekly,25.8,131.2,False,False,192.5,104.3,28/07/2024
+l5k4j3h2-g1f0d9s8-a7p6o5i4u3y2,46-60,57,73,Female,West,Non-Smoker,Rarely,27.2,144.8,True,True,205.7,148.6,11/10/2024
+t1y2u3i4-o5p6a7s8-d9f0g1h2j3k4,60+,74,81,Male,North,Non-Smoker,Daily,26.7,149.3,False,True,188.2,122.4,23/11/2024
+b4n5m6a7-s8d9f0g1-h2j3k4l5z6x7,18-25,25,92,Female,South,Smoker,Weekly,29.1,125.8,False,False,214.6,99.7,06/08/2024
+c8v7b6n5-m4a3s2d1-f0g9h8j7k6l5,26-35,34,77,Male,East,Former Smoker,Rarely,24.5,127.4,False,False,172.3,94.2,18/09/2024
+z3x4c5v6-b7n8m9a0-s1d2f3g4h5j6,36-45,45,84,Female,West,Non-Smoker,Daily,27.6,138.7,True,False,203.8,118.5,29/10/2024
+q2w3e4r5-t6y7u8i9-o0p1a2s3d4f5,46-60,59,96,Male,North,Smoker,Weekly,33.1,153.4,True,True,267.3,184.6,14/07/2024
+g8h9j0k1-l2z3x4c5-v6b7n8m9a0s1,60+,66,69,Female,South,Non-Smoker,Rarely,25.1,136.8,False,True,179.5,108.7,22/08/2024
+d4f5g6h7-j8k9l0z1-x2c3v4b5n6m7,18-25,20,74,Male,East,Non-Smoker,Daily,23.8,116.2,False,False,158.4,88.3,03/09/2024
+a7s8d9f0-g1h2j3k4-l5z6x7c8v9b0,26-35,32,89,Female,West,Former Smoker,Weekly,28.2,133.5,False,True,196.7,108.9,17/10/2024
+n0m1a2s3-d4f5g6h7-j8k9l0z1x2c3,36-45,43,78,Male,North,Smoker,Rarely,26.3,141.9,True,True,215.2,152.4,25/11/2024
+v5b6n7m8-a9s0d1f2-g3h4j5k6l7z8,46-60,54,72,Female,South,Non-Smoker,Daily,25.9,147.2,True,True,198.4,158.3,08/12/2024
+x8c9v0b1-n2m3a4s5-d6f7g8h9j0k1,60+,70,86,Male,East,Non-Smoker,Weekly,29.7,155.6,False,True,232.1,128.5,19/07/2024
+l1k2j3h4-g5f6d7s8-a9p0o1i2u3y4,18-25,22,65,Female,West,Smoker,Rarely,24.1,121.3,False,False,175.3,96.4,01/08/2024
+t4y5u6i7-o8p9a0s1-d2f3g4h5j6k7,26-35,36,93,Male,North,Former Smoker,Daily,30.2,139.7,True,True,228.6,162.5,14/09/2024
+b7n8m9a0-s1d2f3g4-h5j6k7l8z9x0,36-45,49,81,Female,South,Non-Smoker,Weekly,27.1,132.8,False,False,189.4,103.2,27/10/2024
+c0v1b2n3-m4a5s6d7-f8g9h0j1k2l3,46-60,56,77,Male,East,Smoker,Rarely,26.8,149.5,True,True,221.7,172.8,09/11/2024
+z5x6c7v8-b9n0m1a2-s3d4f5g6h7j8,60+,73,74,Female,West,Non-Smoker,Daily,25.4,141.6,False,True,184.2,119.3,21/08/2024
+f1g2h3j4-k5l6z7x8-c9v0b1n2m3a4,18-25,24,88,Male,North,Non-Smoker,Weekly,28.5,124.7,False,False,201.5,97.8,04/07/2024
+a4s5d6f7-g8h9j0k1-l2z3x4c5v6b7,26-35,28,71,Female,South,Former Smoker,Rarely,23.9,129.3,False,False,167.8,92.6,16/09/2024
+n7m8a9s0-d1f2g3h4-j5k6l7z8x9c0,36-45,46,83,Male,East,Smoker,Daily,28.8,143.6,True,True,235.4,168.9,28/10/2024
+v0b1n2m3-a4s5d6f7-g8h9j0k1l2z3,46-60,51,69,Female,West,Non-Smoker,Weekly,24.7,138.4,False,False,176.3,105.7,12/11/2024
+x3c4v5b6-n7m8a9s0-d1f2g3h4j5k6,60+,75,90,Male,North,Former Smoker,Rarely,31.5,157.8,True,True,258.9,192.4,23/12/2024
+l8k9j0h1-g2f3d4s5-a6p7o8i9u0y1,18-25,21,62,Female,South,Non-Smoker,Daily,21.8,114.2,False,False,152.6,84.7,05/08/2024
+t3y4u5i6-o7p8a9s0-d1f2g3h4j5k6,26-35,37,94,Male,East,Smoker,Weekly,30.5,137.9,True,True,241.7,172.4,18/09/2024
+b6n7m8a9-s0d1f2g3-h4j5k6l7z8x9,36-45,40,76,Female,West,Non-Smoker,Rarely,25.6,128.7,False,False,182.9,99.5,30/10/2024
+c9v0b1n2-m3a4s5d6-f7g8h9j0k1l2,46-60,53,85,Male,North,Former Smoker,Daily,29.4,146.2,True,True,217.5,155.8,14/07/2024
+z2x3c4v5-b6n7m8a9-s0d1f2g3h4j5,60+,68,73,Female,South,Non-Smoker,Weekly,25.8,139.5,False,True,188.7,114.6,26/08/2024
+f4g5h6j7-k8l9z0x1-c2v3b4n5m6a7,18-25,19,79,Male,East,Non-Smoker,Rarely,24.3,119.8,False,False,164.2,91.3,07/09/2024
+a1s2d3f4-g5h6j7k8-l9z0x1c2v3b4,26-35,33,87,Female,West,Smoker,Daily,28.6,141.2,True,True,219.8,162.7,19/10/2024
+n4m5a6s7-d8f9g0h1-j2k3l4z5x6c7,36-45,44,82,Male,North,Former Smoker,Weekly,26.7,133.4,False,False,195.3,106.8,01/11/2024
+v7b8n9m0-a1s2d3f4-g5h6j7k8l9z0,46-60,58,70,Female,South,Non-Smoker,Rarely,25.2,148.7,True,True,204.6,162.3,15/08/2024
+x0c1v2b3-n4m5a6s7-d8f9g0h1j2k3,60+,71,88,Male,East,Smoker,Daily,31.8,154.3,True,True,265.2,185.6,27/09/2024
+l3k4j5h6-g7f8d9s0-a1p2o3i4u5y6,18-25,23,66,Female,West,Non-Smoker,Weekly,22.5,117.6,False,False,158.9,88.4,09/10/2024
+t6y7u8i9-o0p1a2s3-d4f5g6h7j8k9,26-35,31,92,Male,North,Smoker,Rarely,29.7,135.8,False,True,226.4,115.7,22/11/2024
+b3n4m5a6-s7d8f9g0-h1j2k3l4z5x6,36-45,48,79,Female,South,Former Smoker,Daily,26.4,130.5,False,False,187.2,102.3,03/12/2024
+c6v7b8n9-m0a1s2d3-f4g5h6j7k8l9,46-60,55,84,Male,East,Non-Smoker,Weekly,28.9,145.7,True,True,212.8,153.4,16/07/2024
+z9x0c1v2-b3n4m5a6-s7d8f9g0h1j2,60+,67,72,Female,West,Non-Smoker,Rarely,24.9,137.2,False,True,182.5,117.8,28/08/2024
+f1g2h3j4-k5l6z7x8-c9v0b1n2m3a4,18-25,20,81,Male,North,Smoker,Daily,26.8,123.4,False,False,205.7,96.2,10/09/2024
+a7s8d9f0-g1h2j3k4-l5z6x7c8v9b0,26-35,35,75,Female,South,Non-Smoker,Weekly,24.1,128.9,False,False,171.4,93.8,24/10/2024
+n0m1a2s3-d4f5g6h7-j8k9l0z1x2c3,36-45,42,89,Male,East,Former Smoker,Rarely,29.2,139.6,True,True,231.7,158.2,05/11/2024
+v5b6n7m8-a9s0d1f2-g3h4j5k6l7z8,46-60,57,74,Female,West,Smoker,Daily,26.5,149.3,True,True,214.5,172.6,18/12/2024
+x8c9v0b1-n2m3a4s5-d6f7g8h9j0k1,60+,72,83,Male,North,Non-Smoker,Weekly,29.8,152.6,False,True,235.8,124.3,29/07/2024
+l1k2j3h4-g5f6d7s8-a9p0o1i2u3y4,18-25,22,64,Female,South,Non-Smoker,Rarely,22.7,115.8,False,False,156.3,87.5,11/08/2024
+t4y5u6i7-o8p9a0s1-d2f3g4h5j6k7,26-35,38,96,Male,East,Smoker,Daily,31.2,142.7,True,True,248.6,178.4,23/09/2024
+b7n8m9a0-s1d2f3g4-h5j6k7l8z9x0,36-45,47,78,Female,West,Former Smoker,Weekly,25.9,134.2,False,False,191.5,104.7,06/10/2024
+c0v1b2n3-m4a5s6d7-f8g9h0j1k2l3,46-60,52,86,Male,North,Non-Smoker,Rarely,28.3,147.8,True,True,219.3,162.5,19/11/2024
+z5x6c7v8-b9n0m1a2-s3d4f5g6h7j8,60+,74,71,Female,South,Non-Smoker,Daily,25.6,140.4,False,True,185.6,116.8,01/12/2024
+f2g3h4j5-k6l7z8x9-c0v1b2n3m4a5,18-25,18,73,Male,East,Smoker,Weekly,24.8,121.5,False,False,178.2,94.3,14/07/2024
+a5s6d7f8-g9h0j1k2-l3z4x5c6v7b8,26-35,32,84,Female,West,Non-Smoker,Rarely,27.3,130.8,False,False,194.6,101.2,26/08/2024
+n8m9a0s1-d2f3g4h5-j6k7l8z9x0c1,36-45,41,77,Male,North,Former Smoker,Daily,25.4,132.7,False,True,183.7,108.9,07/09/2024
+v1b2n3m4-a5s6d7f8-g9h0j1k2l3z4,46-60,59,91,Female,South,Smoker,Weekly,31.5,151.4,True,True,255.3,182.7,20/10/2024
+x4c5v6b7-n8m9a0s1-d2f3g4h5j6k7,60+,69,68,Male,East,Non-Smoker,Rarely,24.3,138.9,False,False,177.4,113.5,02/11/2024
+l6k7j8h9-g0f1d2s3-a4p5o6i7u8y9,18-25,24,90,Female,West,Non-Smoker,Daily,29.5,126.3,False,False,208.9,98.6,15/12/2024
+t9y0u1i2-o3p4a5s6-d7f8g9h0j1k2,26-35,29,70,Male,South,Smoker,Weekly,23.6,125.7,False,False,169.2,92.4,27/07/2024
+b0n1m2a3-s4d5f6g7-h8j9k0l1z2x3,36-45,45,82,Female,East,Former Smoker,Rarely,27.8,136.4,True,True,202.6,145.3,08/08/2024
+c3v4b5n6-m7a8s9d0-f1g2h3j4k5l6,46-60,56,79,Male,West,Non-Smoker,Daily,26.9,144.7,True,True,210.4,158.9,21/09/2024
+z8x9c0v1-b2n3m4a5-s6d7f8g9h0j1,60+,70,85,Female,North,Smoker,Weekly,30.2,153.8,True,True,245.7,178.2,03/10/2024
+f5g6h7j8-k9l0z1x2-c3v4b5n6m7a8,18-25,21,68,Male,South,Non-Smoker,Rarely,23.1,118.7,False,False,162.5,89.3,16/11/2024
+a2s3d4f5-g6h7j8k9-l0z1x2c3v4b5,26-35,34,93,Female,East,Former Smoker,Daily,29.8,137.5,False,True,223.7,112.8,28/12/2024
+n3m4a5s6-d7f8g9h0-j1k2l3z4x5c6,36-45,49,76,Male,West,Smoker,Weekly,25.7,131.8,False,False,186.4,103.5,09/07/2024
+v8b9n0m1-a2s3d4f5-g6h7j8k9l0z1,46-60,54,87,Female,North,Non-Smoker,Rarely,29.1,148.2,True,True,227.8,168.4,22/08/2024
+x1c2v3b4-n5m6a7s8-d9f0g1h2j3k4,60+,73,72,Male,South,Non-Smoker,Daily,25.3,141.7,False,True,183.5,118.6,04/09/2024
+l4k5j6h7-g8f9d0s1-a2p3o4i5u6y7,18-25,25,96,Female,East,Smoker,Weekly,30.8,128.4,False,False,231.6,101.2,17/10/2024
+t7y8u9i0-o1p2a3s4-d5f6g7h8j9k0,26-35,30,74,Male,West,Non-Smoker,Rarely,24.6,126.9,False,False,172.8,94.7,29/11/2024
+b4n5m6a7-s8d9f0g1-h2j3k4l5z6x7,36-45,43,83,Female,North,Former Smoker,Daily,27.5,135.6,True,False,198.3,122.5,10/12/2024
+c7v8b9n0-m1a2s3d4-f5g6h7j8k9l0,46-60,51,78,Male,South,Non-Smoker,Weekly,26.2,143.9,True,True,208.7,152.3,23/07/2024
+z0x1c2v3-b4n5m6a7-s8d9f0g1h2j3,60+,68,81,Female,East,Smoker,Rarely,28.7,150.2,True,True,238.4,172.8,05/08/2024
+f8g9h0j1-k2l3z4x5-c6v7b8n9m0a1,18-25,19,69,Male,West,Non-Smoker,Daily,22.9,117.3,False,False,161.7,88.6,18/09/2024
+a9s0d1f2-g3h4j5k6-l7z8x9c0v1b2,26-35,36,91,Female,North,Former Smoker,Weekly,29.3,138.6,True,True,225.4,162.3,30/10/2024
+n2m3a4s5-d6f7g8h9-j0k1l2z3x4c5,36-45,46,75,Male,South,Smoker,Rarely,25.1,129.7,False,False,179.5,98.4,12/11/2024
+v6b7n8m9-a0s1d2f3-g4h5j6k7l8z9,46-60,53,86,Female,East,Non-Smoker,Daily,28.5,146.3,True,True,215.6,158.7,24/12/2024
+x9c0v1b2-n3m4a5s6-d7f8g9h0j1k2,60+,71,77,Male,West,Non-Smoker,Weekly,26.8,142.5,False,True,191.2,119.4,06/07/2024
+l2k3j4h5-g6f7d8s9-a0p1o2i3u4y5,18-25,22,84,Female,North,Smoker,Rarely,27.4,122.8,False,False,203.5,97.6,19/08/2024
+t5y6u7i8-o9p0a1s2-d3f4g5h6j7k8,26-35,33,72,Male,South,Non-Smoker,Daily,23.8,127.5,False,False,168.2,91.5,01/09/2024
+b1n2m3a4-s5d6f7g8-h9j0k1l2z3x4,36-45,48,89,Female,East,Former Smoker,Weekly,28.9,137.8,True,True,228.6,155.2,14/10/2024
+c4v5b6n7-m8a9s0d1-f2g3h4j5k6l7,46-60,55,73,Male,West,Non-Smoker,Rarely,25.5,145.2,True,True,204.3,161.8,26/11/2024
+z7x8c9v0-b1n2m3a4-s5d6f7g8h9j0,60+,67,94,Female,North,Smoker,Daily,32.1,154.7,True,True,261.5,188.4,07/12/2024
+f3g4h5j6-k7l8z9x0-c1v2b3n4m5a6,18-25,24,70,Male,South,Non-Smoker,Weekly,23.9,119.4,False,False,165.3,90.2,20/07/2024
+a6s7d8f9-g0h1j2k3-l4z5x6c7v8b9,26-35,39,95,Female,East,Smoker,Rarely,30.4,140.8,True,True,242.7,172.5,02/08/2024
+n9m0a1s2-d3f4g5h6-j7k8l9z0x1c2,36-45,42,81,Male,West,Non-Smoker,Daily,26.9,132.6,False,False,192.8,105.3,15/09/2024
+v4b5n6m7-a8s9d0f1-g2h3j4k5l6z7,46-60,50,77,Female,North,Former Smoker,Weekly,26.1,144.5,True,True,211.4,157.6,28/10/2024
+x7c8v9b0-n1m2a3s4-d5f6g7h8j9k0,60+,72,82,Male,South,Non-Smoker,Rarely,28.3,149.8,False,True,232.7,122.8,09/11/2024
+l0k1j2h3-g4f5d6s7-a8p9o0i1u2y3,18-25,20,63,Female,East,Non-Smoker,Daily,21.7,114.9,False,False,154.2,85.7,22/12/2024
+t3y4u5i6-o7p8a9s0-d1f2g3h4j5k6,26-35,28,88,Male,West,Smoker,Weekly,28.4,136.2,False,True,218.5,114.3,03/07/2024
+b8n9m0a1-s2d3f4g5-h6j7k8l9z0x1,36-45,47,74,Female,North,Former Smoker,Rarely,24.8,130.4,False,False,177.6,100.2,16/08/2024
+c1v2b3n4-m5a6s7d8-f9g0h1j2k3l4,46-60,58,92,Male
